@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Codino Logo" width="200"/>
+  <img src="Codino.png" alt="Codino Logo" width="200"/>
 </p>
 
 <h1 align="center">Codino - CleanRestApi</h1>
@@ -10,3 +10,4 @@
   Test <br>
   the end
 </p>
+
